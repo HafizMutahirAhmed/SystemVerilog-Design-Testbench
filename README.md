@@ -6,5 +6,5 @@ This repository contains a collection of digital design modules implemented in *
 
 ## 📁 Repository Structure
 
-Each module is accompanied by a testbench file to verify its functionality.
+Each design is accompanied by a testbench file to verify its functionality.
 
